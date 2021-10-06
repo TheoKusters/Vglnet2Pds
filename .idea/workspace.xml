@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FlowPDS:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f3774ca-1a2b-48eb-95f6-6563dcf15530" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CommittedChangesCache">
+    <option name="refreshEnabled" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PT</find>
+      <find>NumberOfElements</find>
+      <find>id</find>
+      <find>eimsgi</find>
+      <find>logger</find>
+      <find>confi</find>
+      <find>conc</find>
+      <find>check</find>
+      <find>stop</find>
+    </findStrings>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectId" id="1SEZFt5mNhldO5W0AkIa9m6Yvt7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="flowpds" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553792429216" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="web" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration useDefault="false">/usr/local/opt/subversion/libexec</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="runUnderTerminal" value="true" />
+    <option name="FORCE_UPDATE" value="true" />
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f3774ca-1a2b-48eb-95f6-6563dcf15530" name="Default Changelist" comment="" />
+      <created>1547544503167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547544503167</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1547727592031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547727592032</updated>
+    </task>
+    <task id="LOCAL-00002" summary="UTF8 voor alle webservice aanroepen">
+      <created>1549557737034</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549557737034</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Handle errors &lt;&gt; 5xx errors as failures. Do not retry.">
+      <created>1549891797035</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549891797035</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Handle errors &lt;&gt; 5xx errors as failures. Do not retry.">
+      <created>1549891966030</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549891966030</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Handle batch size correctly">
+      <created>1550134853027</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550134853027</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Handle batch size correctly">
+      <created>1550134903028</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1550134903028</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Handle batch size correctly">
+      <created>1550134916032</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550134916032</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Handle batch size correctly">
+      <created>1550136137032</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1550136137032</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Handle batch size correctly">
+      <created>1550139237032</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1550139237032</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Handle batch size correctly">
+      <created>1550148555032</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1550148555032</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Handle batch size correctly">
+      <created>1550153673029</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1550153673029</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Handle batch size correctly">
+      <created>1550236178033</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1550236178034</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Handle batch size correctly">
+      <created>1553605420034</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1553605420034</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Afnemende batchsize bij retry">
+      <created>1554125817034</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1554125817035</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Afnemende batchsize bij retry">
+      <created>1554288078035</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1554288078036</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Afnemende batchsize bij retry">
+      <created>1554288277031</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1554288277031</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Bugfix for HTTP 500 error">
+      <created>1554371482032</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1554371482032</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Bugfix for HTTP 500 error">
+      <created>1554383841027</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1554383841027</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Check PFNRC for stop requested">
+      <created>1554466739033</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1554466739033</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Check PFNRC for stop requested">
+      <created>1554476644030</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1554476644030</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Check PFNRC for stop requested">
+      <created>1554715618030</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1554715618031</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Check PFNRC for stop requested">
+      <created>1554715898031</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1554715898031</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Check PFNRC for stop requested">
+      <created>1554717605031</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1554717605031</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Check PFNRC for stop requested">
+      <created>1571134618027</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1571134618027</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="VcsManager.ChangeBrowser.svn">
+    <option name="DATE_BEFORE" />
+    <option name="DATE_AFTER" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="UTF8 voor alle webservice aanroepen" />
+    <MESSAGE value="Handle errors &lt;&gt; 5xx errors as failures. Do not retry." />
+    <MESSAGE value="Handle batch size correctly" />
+    <MESSAGE value="Afnemende batchsize bij retry" />
+    <MESSAGE value="Bugfix for HTTP 500 error" />
+    <MESSAGE value="Check PFNRC for stop requested" />
+    <option name="LAST_COMMIT_MESSAGE" value="Check PFNRC for stop requested" />
+  </component>
+</project>
